@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Fauze</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
-- 🔭 I’m currently working on **Digitalization**
+- 🔭 I’m currently working as **Freelancer**
 
-- 🌱 I’m currently learning **react, node**
+- 🌱 I’m currently learning more about **react, nodejs**
 
-- 👯 I’m looking to collaborate on **Frontend**
+- 👯 I’m looking to collaborate on Front-End Projects
 
-- 💬 Ask me about **big O, ui**
+- 💬 Ask me about **big O, ui, poo**
 
 - 📫 How to reach me **fauze.cavalari@gmail.com**
 
