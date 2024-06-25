@@ -2,7 +2,7 @@
 {
   "Dev": {
       "name": "Fauze",
-      "age": "22",
+      "age": 22,
       "role": "Fullstack Developer",
       "bachelor's degree": "Information Systems",
       "post-graduation": "Software Architecture",
